@@ -1,0 +1,6 @@
+c:\users\назар\documents\visual studio 2012\Projects\find_files\find_files\bin\Debug\find_files.exe.config
+c:\users\назар\documents\visual studio 2012\Projects\find_files\find_files\bin\Debug\find_files.exe
+c:\users\назар\documents\visual studio 2012\Projects\find_files\find_files\bin\Debug\find_files.pdb
+c:\users\назар\documents\visual studio 2012\Projects\find_files\find_files\obj\Debug\find_files.exe
+c:\users\назар\documents\visual studio 2012\Projects\find_files\find_files\obj\Debug\find_files.pdb
+C:\Users\Назар\documents\visual studio 2012\Projects\find_files\find_files\obj\Debug\find_files.csprojResolveAssemblyReference.cache
